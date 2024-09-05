@@ -1,1 +1,49 @@
-4545
+<html>
+<head>
+<title>Exemplo</title>
+</head>
+<body>
+<p>    <center> <b>AQUI EM BAIXO ESTÃO AS AULAS E OS VALORES!!!</p>
+    <HR>
+<p> 2. Programação JAVA 250,00</p>
+<p>3. Programação Python 200,000</p>
+<p>4. JavaScript 180,000</p>  </b></center>
+ </body>
+ 
+ <center>
+ <table border="5">
+    <tr>
+    <th>-Programação JAVA-</th>
+    <th>-Programção PYTHON- </th>
+    <th>-JAVASCRIPT-</th>
+    </tr>
+ 
+    <tr>
+        <hr>
+    <td>AULAS</td>
+    <td>VALORES</td>
+    <td></td>
+    <h1><center>Tabelas com os valores </center></h1>
+    </tr>
+    <tr>
+         <td><b>Progrmação java </b></td>
+    <td> <strike>250,00</strike> <sub>para 200</sub></td>
+    <td><iframe width="150" height="150" src="https://www.youtube.com/embed/kkOSweUhGZM?si=32-qvp0TXl3jzTrT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+    <tr> </tr>
+    <hr>
+         <td><b>PYTHON<b>/td>
+    <td> <strike> 200,00</strike> para 150</td>
+    <td> <iframe width="150" height="150" src="https://www.youtube.com/embed/H4hVRzaxjl0?si=e2U9PZG8W-Bt699U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></TD>
+    </tr>
+         <td><b>-JAVASCRIPT- <b></td>
+    <td> <strike>180,00 </strike>para 120</td>
+    <td><iframe width="150" height="150" src="https://www.youtube.com/embed/kGbbPBRFCE0?si=08EL14-JkiQ3AEjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+   
+   
+       
+ 
+</table>
+</center>
+<body style="background-color: rgb(137, 161, 185);">
+   
+</html>
